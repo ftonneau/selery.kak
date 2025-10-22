@@ -1,6 +1,6 @@
 # Select every Nth item from an adjacent line block or from a preexisting set of
 # selections, starting at item 1.
-# Author: Francois Tonneau
+# Author: François Tonneau
 
 # Public command
 # ------------------------------
